@@ -91,6 +91,19 @@ Password:
 p@33_05VOD-(rT!!
 ```
 
+There is a new Vdf password out 
+
+User: 
+
+```
+root
+```
+Pass:
+
+```
+Vod@f0nE_24-R00t
+```
+
 ## Cyta 
 I added this one here just for sake of preservation , i doubt this password is used in any modern CPE 
 
