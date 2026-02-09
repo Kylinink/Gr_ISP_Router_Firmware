@@ -1,22 +1,31 @@
 # Root Passwords
 
 ## Table of contents
-* [1. Vodafone](#1-vodafone)
-  * [Vodafone-Sercomm H300s](#sercomm-h300s)
-  * [ZTE H267A](#zte-h267a)
-  * [ZTE H268Q](#zte-h268q)
-  * [Cyta](#cyta)
-* [2. WindGR](#2-windgr)
-  * [Technicolor](#technicolor)
-  * [ZTE](#zte)
-* [3. Forthnet/Nova](#3-forthnetnova)
-  * [Older router models](#older-router-models)
-  * [Routers after the Nova/Wind merger](#routers-after-the-novawind-merger)
+1. [Vodafone](#1-vodafone)
+   * [Sercomm H300s](#sercomm-h300s)
+   * [ZTE](#zte)
+     * [H267A](#h267a)
+     * [H268Q](#h268q)
+   * [TP-Link 100v](#tp-link-100v)
+   * [Cyta](#cyta)
+2. [WindGR](#2-windgr)
+   * [Technicolor](#technicolor)
+     * [TG788v V3](#tg788v-v3)
+     * [TG789VAC v2](#tg789vac-v2)
+     * [DGA 4130](#dga-4130)
+   * [ZTE](#zte-1)
+     * [H288A](#h288a)
+   * [ZYXEL](#zyxel)
+     * [VMG8623-T50B](#vmg8623-t50b)
+3. [Forthnet/Nova](#3-forthnetnova)
+   * [Older router models](#older-router-models)
+   * [Routers after the Nova/Wind merger](#routers-after-the-novawind-merger)
 
 
 
 
-## 1.Vodafone
+
+## 1. Vodafone
 
 ### Sercomm H300s ###
 
@@ -37,9 +46,9 @@ Password:
 
 For firmware versions higher than and including 1.2.01.06, you must restore a settings backup file where the superuser password had previously been changed.
 
-### Vodafone-ZTE 
+### ZTE 
 
-- H267A
+#### H267A
 
 For this particular model, some confusion seems to exist. Different firmware versions have different root credentials. You can try the following: 
 
@@ -75,7 +84,7 @@ Password:
 
  (same as previous one, except for removing the `M`)
 
-- H268Q
+#### H268Q
 
 For ONLY the first ever released firmware, you may use the H267A's credentials. For all firmware versions after that, use the following:
 
@@ -104,7 +113,7 @@ Pass:
 Vod@f0nE_24-R00t
 ```
 
-## Cyta 
+### Cyta 
 I added this one here just for sake of preservation , i doubt this password is used in any modern CPE 
 
 Username:
@@ -119,11 +128,26 @@ Password:
 Cyt@_Adm1n_R3$
 ```
 
+### TP-Link 100v
+
+Username:
+
+```
+root
+```
+
+Password:
+
+```
+_m0rE&2aDv
+```
+
+
 ## 2. WindGR
 
 ### Technicolor 
 
-- TG788v V3
+#### TG788v V3
 
 Username:
 
@@ -137,7 +161,7 @@ Password:
 TG788v3W1n0SuPpaSsw0rd
 ```
 
-- TG789VAC v2
+#### TG789VAC v2
 
 Username: 
 
@@ -151,7 +175,7 @@ Password:
 W1n0SuPpaSsw0rd
 ```
 
-- DGA 4130
+#### DGA 4130
 
 Username: 
 
@@ -165,9 +189,10 @@ Password:
 DGA4130W1n0SuPpaSsw0rd
 ```
 
-### ZTE 
 
-- H288A
+### ZTE
+
+#### H288A
 
 Username: 
 
@@ -182,7 +207,25 @@ zt3_2BBa_$up3r_@dmm1n
 ```
 
 
-## 3.Forthnet/Nova
+### ZYXEL
+
+#### VMG8623-T50B
+
+Username:
+
+```
+W1nSuPp@dM1n8623
+```
+
+Password:
+
+```
+vMGd8623-Ppa$S*SvPp
+```
+> **Note:** Latest models-firmwares from new Nova have per-device passwords on the bootloader.
+
+
+## 3. Forthnet/Nova
 
 ### Older router models
 
@@ -215,3 +258,5 @@ Password:
 ```
 dxEh-eNc.Lk7
 ```
+
+
