@@ -15,6 +15,8 @@
      * [DGA 4130](#dga-4130)
    * [ZTE](#zte-1)
      * [H288A](#h288a)
+   * [ZYXEL](#zyxel)
+     * [VMG8623-T50B](#vmg8623-t50b)
 3. [Forthnet/Nova](#3-forthnetnova)
    * [Older router models](#older-router-models)
    * [Routers after the Nova/Wind merger](#routers-after-the-novawind-merger)
@@ -203,6 +205,24 @@ Password:
 ```
 zt3_2BBa_$up3r_@dmm1n
 ```
+
+
+### ZYXEL
+
+#### VMG8623-T50B
+
+Username:
+
+```
+W1nSuPp@dM1n8623
+```
+
+Password:
+
+```
+vMGd8623-Ppa$S*SvPp
+```
+> **Note:** Latest models-firmwares from new Nova have per-device passwords on the bootloader.
 
 
 ## 3. Forthnet/Nova
